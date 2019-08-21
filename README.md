@@ -1,3 +1,3 @@
 Gwiilo-UK
 
-The website stuff for Gwiilo.co.uk
+The website stuff for uk.Gwiilo.com which is redirected to Gwiilo.co.uk
